@@ -38,7 +38,7 @@ h6 {
 }
 
 p {
-  font-size: 16px;
+  font-size: 25px;
   /* color: #465b52; */
   color: #fff;
   margin: 15px 0 20px 0;
@@ -707,7 +707,7 @@ li {
 #intro-banner .banner-box p{
   color: #fff;
   text-align: center;
-  padding: 40px 150px
+  padding: 20px 10px 30px;
 }
 
 /* Join */
@@ -718,11 +718,11 @@ li {
   align-items: center;
   text-align: center;
   width: 100%;
-  height: 30vh;
+  height: 40vh;
 }
 
 .join h1{
-  color: #fff;
+  color: #db2b2b;
 }
 
 .join h2{
@@ -930,6 +930,19 @@ footer .copyright {
   text-align: center;
 }
 
+#consulting-header {
+  width: 100%;
+  height: 60vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  padding: 14px;
+  text-shadow: 3px 3px #000;
+  background-image: url("img/7.jpg");
+
+}
 
 
 /* Shop Page */
